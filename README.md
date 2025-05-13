@@ -23,13 +23,18 @@ With a strong foundation in **finance**, I'm now building AI-powered tools to tr
 ### 🔹 Stock Market Signal Engine (📈)
 > ML-powered engine to detect **buy/sell signals** using **technical indicators** + **sentiment data**. Includes an **interactive LangChain agent** and **dashboard with Plotly**.
 
-🔗 [View Repository](https://github.com/lenin1992/Stock-Market-Signal-Engine-)
+📁 [View Repository](https://github.com/lenin1992/Stock-Market-Signal-Engine-)
 
-### 🔹 AI Chatbot with LangChain + RAG (🤖)
-> Domain-adaptive chatbot using **LangChain**, **Google Search API**, **FAISS**, and **OpenAI**, deployed via **Streamlit on AWS**.
+### 🤖 AI Chatbot with Google Search & FAISS
 
-🔗
+Built a powerful AI chatbot using **LangChain**, **OpenAI**, and **Streamlit**, integrated with:
+- 🔎 FAISS vector search for contextual memory
+- 🌐 Google Custom Search for real-time web results
+- 💬 Small talk handling and live stock price updates
+- 🧠 Local vector database built with OpenAI embeddings
 
+📌 Tech Stack: Python, LangChain, OpenAI, FAISS, Streamlit, yFinance, Google Search API  
+📁 [View Project Repository](https://github.com/lenin1992/chatbot)
 
 
 ## 📫 Let's Connect
